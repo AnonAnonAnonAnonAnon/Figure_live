@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.14">
   <diagram name="第 1 页" id="XxKXaimhd3yALRL2m2mh">
-    <mxGraphModel dx="578" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -254,10 +254,10 @@
           <mxGeometry x="1441.75" y="585" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YoX9qhpIbneQWNBXdLZ7-95" value="附加了提取的空间表征的场景图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="750" width="309.5" height="160" as="geometry" />
+          <mxGeometry x="940" y="730" width="309.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="YoX9qhpIbneQWNBXdLZ7-96" value="&lt;font face=&quot;Times New Roman&quot;&gt;Task-adaptive spatial representation extraction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="969.75" y="720" width="250" height="30" as="geometry" />
+          <mxGeometry x="969.75" y="730" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YoX9qhpIbneQWNBXdLZ7-99" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#a0522d;strokeColor=none;targetPerimeterSpacing=0;endSize=3;startSize=6;endWidth=9.2;width=4;shadow=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
