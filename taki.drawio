@@ -274,7 +274,7 @@
         <mxCell id="YoX9qhpIbneQWNBXdLZ7-110" value="3 完成任务后的场景图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1039" y="833.82" width="243" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YoX9qhpIbneQWNBXdLZ7-112" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Low-level Action Sequence Generator&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#f5f5f5;strokeColor=#666666;align=center;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="YoX9qhpIbneQWNBXdLZ7-112" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Low-level Action Sequence Generator&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#f5f5f5;strokeColor=light-dark(#9a9996, #959595);align=center;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1314.51" y="846.6300000000001" width="215" height="33.37" as="geometry" />
         </mxCell>
         <mxCell id="YoX9qhpIbneQWNBXdLZ7-116" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span lang=&quot;en&quot; class=&quot;HwtZe&quot;&gt;&lt;span class=&quot;jCAhz ChMk0b&quot;&gt;&lt;span class=&quot;ryNqvb&quot;&gt;Initial scene&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
