@@ -280,24 +280,6 @@
         <mxCell id="YoX9qhpIbneQWNBXdLZ7-118" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Task Adaptive Spatial Representation&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=default;align=center;" vertex="1" parent="1">
           <mxGeometry x="1315.77" y="780" width="213.74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YoX9qhpIbneQWNBXdLZ7-122" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#a0522d;strokeColor=none;targetPerimeterSpacing=0;endSize=3;startSize=6;endWidth=9.2;width=4;shadow=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1417.6100000000001" y="887.5" as="sourcePoint" />
-            <mxPoint x="1417.6100000000001" y="910" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YoX9qhpIbneQWNBXdLZ7-125" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#a0522d;strokeColor=none;targetPerimeterSpacing=0;endSize=3;startSize=6;endWidth=9.2;width=4;shadow=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1417.58" y="820" as="sourcePoint" />
-            <mxPoint x="1417.58" y="842.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YoX9qhpIbneQWNBXdLZ7-126" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#a0522d;strokeColor=none;targetPerimeterSpacing=0;endSize=3;startSize=6;endWidth=9.2;width=4;shadow=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1570" y="863.06" as="sourcePoint" />
-            <mxPoint x="1539.9999999999998" y="862.97" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YoX9qhpIbneQWNBXdLZ7-127" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Tips&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=default;align=center;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="338" y="1378.25" width="48" height="30" as="geometry" />
         </mxCell>
@@ -342,12 +324,6 @@
         </mxCell>
         <mxCell id="YoX9qhpIbneQWNBXdLZ7-138" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Action Sequence&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=default;align=center;" vertex="1" parent="1">
           <mxGeometry x="1360.01" y="920" width="115.49" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YoX9qhpIbneQWNBXdLZ7-142" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#a0522d;strokeColor=none;targetPerimeterSpacing=0;endSize=3;startSize=6;endWidth=9.2;width=4;shadow=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1342.75" y="934.71" as="sourcePoint" />
-            <mxPoint x="1294" y="935.09" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="YoX9qhpIbneQWNBXdLZ7-143" value="1 初始场景图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95.5" y="1763.8200000000002" width="243" height="118.82" as="geometry" />
@@ -554,6 +530,36 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1308.13" y="794.63" as="sourcePoint" />
             <mxPoint x="1285.5" y="794.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YoX9qhpIbneQWNBXdLZ7-191" value="" style="endArrow=block;html=1;rounded=0;curved=1;endFill=1;strokeWidth=3;strokeColor=light-dark(#9a9996, #436697);fillColor=#cce5ff;startSize=6;endSize=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1463" y="420" as="sourcePoint" />
+            <mxPoint x="1462.8799999999999" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YoX9qhpIbneQWNBXdLZ7-192" value="" style="endArrow=block;html=1;rounded=0;curved=1;endFill=1;strokeWidth=3;strokeColor=light-dark(#9a9996, #436697);fillColor=#cce5ff;startSize=6;endSize=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1417.5" y="820" as="sourcePoint" />
+            <mxPoint x="1417.3799999999999" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YoX9qhpIbneQWNBXdLZ7-193" value="" style="endArrow=block;html=1;rounded=0;curved=1;endFill=1;strokeWidth=3;strokeColor=light-dark(#9a9996, #436697);fillColor=#cce5ff;startSize=6;endSize=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1570.12" y="862.94" as="sourcePoint" />
+            <mxPoint x="1540" y="862.94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YoX9qhpIbneQWNBXdLZ7-194" value="" style="endArrow=block;html=1;rounded=0;curved=1;endFill=1;strokeWidth=3;strokeColor=light-dark(#9a9996, #436697);fillColor=#cce5ff;startSize=6;endSize=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1417.5" y="890" as="sourcePoint" />
+            <mxPoint x="1417.3799999999999" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YoX9qhpIbneQWNBXdLZ7-195" value="" style="endArrow=block;html=1;rounded=0;curved=1;endFill=1;strokeWidth=3;strokeColor=light-dark(#9a9996, #436697);fillColor=#cce5ff;startSize=6;endSize=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1342.75" y="934.63" as="sourcePoint" />
+            <mxPoint x="1292.63" y="934.63" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
