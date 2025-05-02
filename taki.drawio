@@ -44,7 +44,13 @@
           <mxGeometry x="90" y="600" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YoX9qhpIbneQWNBXdLZ7-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Toolkit Registry&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=light-dark(#9141ac, #a9adff);align=center;" vertex="1" parent="1">
-          <mxGeometry x="250" y="600" width="110" height="30" as="geometry" />
+          <mxGeometry x="260" y="600" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YoX9qhpIbneQWNBXdLZ7-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Toolkit Registry&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="670" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YoX9qhpIbneQWNBXdLZ7-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Spatial Representation Extraction Toolkit&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="670" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
