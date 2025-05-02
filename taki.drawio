@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.14">
   <diagram name="第 1 页" id="XxKXaimhd3yALRL2m2mh">
-    <mxGraphModel dx="1121" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="714" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,12 +129,6 @@
         </mxCell>
         <mxCell id="YoX9qhpIbneQWNBXdLZ7-53" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Setup the table by placing all small toys into the box, place the pens and tools upright with their tips facing up in the pen holder, and position the plush toys upright side by side facing the same way.&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#f5f5f5;strokeColor=none;align=center;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1332.5" y="540" width="275" height="53.25" as="geometry" />
-        </mxCell>
-        <mxCell id="YoX9qhpIbneQWNBXdLZ7-54" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=light-dark(#9141ac, #a9adff);align=center;" vertex="1" parent="1">
-          <mxGeometry x="1382.64" y="618.82" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YoX9qhpIbneQWNBXdLZ7-55" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;V&lt;/b&gt;ision&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;L&lt;/b&gt;anguage&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;M&lt;/b&gt;odel&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1392.6399999999999" y="618.82" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YoX9qhpIbneQWNBXdLZ7-56" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Spatial Representation Extraction Toolkit&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#fff2cc;strokeColor=light-dark(#b5835a, #00a200);align=center;" vertex="1" parent="1">
           <mxGeometry x="1348.27" y="708.23" width="150" height="50" as="geometry" />
@@ -277,9 +271,6 @@
         <mxCell id="YoX9qhpIbneQWNBXdLZ7-117" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Low-level action sequence generator&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#f5f5f5;strokeColor=#666666;align=center;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="276.75" y="1256.63" width="215" height="33.37" as="geometry" />
         </mxCell>
-        <mxCell id="YoX9qhpIbneQWNBXdLZ7-118" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Task Adaptive Spatial Representation&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=default;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1315.77" y="780" width="213.74" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="YoX9qhpIbneQWNBXdLZ7-127" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Tips&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=default;align=center;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="338" y="1378.25" width="48" height="30" as="geometry" />
         </mxCell>
@@ -321,9 +312,6 @@
         </mxCell>
         <mxCell id="YoX9qhpIbneQWNBXdLZ7-137" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Toolkit Registry&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="489.8800000000001" y="1324.0900000000001" width="90.25" height="18.38" as="geometry" />
-        </mxCell>
-        <mxCell id="YoX9qhpIbneQWNBXdLZ7-138" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Action Sequence&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=default;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1365.53" y="880" width="115.49" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YoX9qhpIbneQWNBXdLZ7-143" value="1 初始场景图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95.5" y="1763.8200000000002" width="243" height="118.82" as="geometry" />
@@ -570,6 +558,18 @@
               <mxPoint x="1332.36" y="690" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YoX9qhpIbneQWNBXdLZ7-118" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Task Adaptive Spatial Representation&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1315.77" y="780" width="213.74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YoX9qhpIbneQWNBXdLZ7-54" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=light-dark(#9141ac, #a9adff);align=center;" vertex="1" parent="1">
+          <mxGeometry x="1382.64" y="618.82" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YoX9qhpIbneQWNBXdLZ7-55" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;V&lt;/b&gt;ision&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;L&lt;/b&gt;anguage&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;M&lt;/b&gt;odel&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1397.7599999999998" y="620" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YoX9qhpIbneQWNBXdLZ7-138" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Action Sequence&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1365.53" y="880" width="115.49" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
