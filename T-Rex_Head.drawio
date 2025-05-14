@@ -14,7 +14,7 @@
           <mxGeometry x="1693.23" y="-2574" width="346.77" height="122" as="geometry" />
         </mxCell>
         <mxCell id="owFuQxum5x_bkgchvR2M-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Spatial Representation Extraction Toolkit&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1699.82" y="-2572" width="267" height="29" as="geometry" />
+          <mxGeometry x="1728.82" y="-2572" width="267" height="29" as="geometry" />
         </mxCell>
         <mxCell id="owFuQxum5x_bkgchvR2M-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;6DPose Estimator&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#fff2cc;strokeColor=light-dark(#b5835a, #00a200);align=center;" vertex="1" parent="1">
           <mxGeometry x="1842.5" y="-2359" width="121" height="30" as="geometry" />
