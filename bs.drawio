@@ -482,6 +482,15 @@
         <mxCell id="0ISvCjCylZSLGaA7idjk-31" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px; color: light-dark(rgb(236, 240, 10), rgb(221, 194, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;[x,y,z]&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2166" y="759" width="69" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="0ISvCjCylZSLGaA7idjk-34" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;标定&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1711" y="687.25" width="75" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0ISvCjCylZSLGaA7idjk-35" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;dashed=1;dashPattern=1 2;strokeColor=light-dark(#e1ff00, #6d5100);fillColor=#fff2cc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1803" y="713.5699999999999" as="sourcePoint" />
+            <mxPoint x="1887" y="713.5699999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
