@@ -418,10 +418,10 @@
           <mxGeometry x="176.5" y="1661.5" width="190" height="42" as="geometry" />
         </mxCell>
         <mxCell id="bR4R-9y3s9aveIzDMIJ_-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;VLM&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="186" y="1739.5" width="76" height="42" as="geometry" />
+          <mxGeometry x="176.5" y="1739.5" width="76" height="42" as="geometry" />
         </mxCell>
         <mxCell id="bR4R-9y3s9aveIzDMIJ_-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;etc&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="197" y="1818.5" width="49" height="42" as="geometry" />
+          <mxGeometry x="186" y="1818.5" width="49" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
