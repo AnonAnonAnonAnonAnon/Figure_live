@@ -1366,6 +1366,12 @@
             <mxPoint x="547" y="-105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="N8UdRNuECTuGV-NtaYC5-11" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;General Task (Such as LIBERO)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-182" width="162" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="N8UdRNuECTuGV-NtaYC5-12" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Long Task&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="-104" width="63" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
