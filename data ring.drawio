@@ -314,7 +314,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-89" value="DemoGen,MILS,etc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="931" y="520" width="123" height="26" as="geometry" />
+          <mxGeometry x="962" y="552" width="123" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-90" value="Shake, Latency, etc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="851" y="549" width="123" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-91" value="Failure&amp;nbsp;&lt;div&gt;Vector&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1056" y="610" width="58" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-92" value="History Execute Record" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1073" y="492" width="144" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
