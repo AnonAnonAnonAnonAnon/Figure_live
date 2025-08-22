@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-4" value="Success Rate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="43" y="333" width="92" height="26" as="geometry" />
+          <mxGeometry x="154" y="317" width="92" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-5" value="Task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="503" y="600" width="43" height="26" as="geometry" />
@@ -30,6 +30,9 @@
             <mxPoint x="550" y="568" as="sourcePoint" />
             <mxPoint x="550" y="346" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-7" value="Num of Data Collected" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="401" y="349" width="139" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
