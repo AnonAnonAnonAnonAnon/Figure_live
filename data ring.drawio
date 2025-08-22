@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0">
   <diagram name="第 1 页" id="En-CYROnuDLl_oeANHlv">
-    <mxGraphModel dx="685" dy="372" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1174" dy="637" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,6 +192,36 @@
         </mxCell>
         <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-54" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="369" y="1062" width="10" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-55" value="&lt;b&gt;Encoder(Tessetact)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="794" y="674" width="135" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-56" value="&lt;b&gt;instruction&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;strokeWidth=3;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="675" y="674" width="86" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-57" value="&lt;b&gt;Image&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="678" y="724" width="84" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-58" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="765" y="695" as="sourcePoint" />
+            <mxPoint x="791" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-59" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="765" y="743" as="sourcePoint" />
+            <mxPoint x="791" y="743" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-60" value="&lt;b&gt;Policy Head (VPP&#39;s)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="961" y="675" width="135" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-61" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="932" y="719" as="sourcePoint" />
+            <mxPoint x="958" y="719" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
