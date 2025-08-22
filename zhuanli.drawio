@@ -1,9 +1,225 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1">
   <diagram name="第 1 页" id="2Fd_VapxR8lUi6SWX9TY">
-    <mxGraphModel dx="773" dy="1136" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3868" dy="1219" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-2286" y="713" width="750" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-2283" y="484" width="743" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-2289" y="174" width="735" height="237" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-1" value="开始&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="135" y="364" width="78" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-2" value="全流程（先密封→后切割→再卸料→末端回收）" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="112.00331298828125" y="277" width="280" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-3" value="挂袋组件挂装吨袋&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="132" y="432" width="123" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-4" value="密封仓上移与缓存料斗压紧成密封界面（软胶）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="122" y="588" width="275" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-5" value="电动葫芦提升/平移" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="122" y="517" width="123" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-6" value="开启操作仓门&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="128" y="662" width="123" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-7" value="&lt;div&gt;视觉系统识别/定位内袋口（相机+环形LED+TOF深度&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;YOLOv10粗定位 → U-Net精分割 → 三维坐标/最佳切割路径&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="119" y="745" width="362" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-8" value="&lt;div&gt;切刀组件伸入→夹持定位→执行切割&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;（三级运动控制：快速接近→视觉伺服微调→力反馈自适应切割）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="161" y="857" width="362" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-9" value="&amp;nbsp;切刀退出/关仓门" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="128" y="963" width="154" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-10" value="卸料：气囊抬升（托举/形变）+ 振动电机（助流防架桥）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="157" y="1045" width="355" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-11" value="判定：是否已卸空？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="152" y="1130" width="254" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-12" value="自适应联动：葫芦与吨袋快速脱开&lt;div&gt;→ 空袋自动回收（减人干预降扬尘）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="178" y="1229" width="254" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-13" value="结束&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="221" y="1312" width="254" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-14" value="&lt;div&gt;【安全联锁（贯穿切割/卸料关键节点）】&lt;/div&gt;&lt;div&gt;- 电子围栏/距离监测、异常力&amp;gt;阈值→急停与回撤、异常检测与告警&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1407" width="431" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-15" value="开始&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="180" y="20" width="78" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-16" value="智能视觉切割系统（基于多传感器融合的识别 → 规划 → 控制 → 执行闭环）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="84" y="-36" width="422" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-18" value="视觉感知层" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1967.995948949353" y="185.00456963900865" width="88" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-19" value="工业相机(≥2MP,30fps)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-2256" y="345.5" width="159" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-20" value="环形LED补光" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-2258" y="282" width="161" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-21" value="TOF深度传感器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-2258" y="218" width="161" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-22" value="光照控制" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-2082.001724137931" y="275.5016372575433" width="76" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-23" value="深度(±1mm)" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-2091.0027586206897" y="208.0014661907328" width="93" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-24" value="图像采集/深度信息融合&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-2004" y="218" width="153" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-25" value="&amp;nbsp;U-Net 语义分割 + 深度融合 → 三维坐标/袋口中心线/切割路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-1762" y="263" width="189" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-26" value="（定位精度提升至≈±2mm）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1750.5" y="235" width="166" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-27" value="决策控制层" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1959.0038976332721" y="488.99823529411753" width="88" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-28" value="路径规划/视觉伺服" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-2254" y="517.5" width="171" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-29" value="ROI裁剪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1841" y="272" width="63" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-30" value="运动控制器（三级策略）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-1990" y="517.5" width="171" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-31" value="安全监控/联锁" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-1730" y="517" width="171" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-32" value="三级运动控制：&#xa;1) 快速接近 500mm/s &#xa;2) 精确定位 50mm/s&#xa;3) 自适应切割(力控)" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-2247.0000000000005" y="562.0000000000001" width="171.86" height="92.33" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-33" value="力/位姿命令" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1534.0038976332721" y="636.9960305606617" width="91" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-34" value="电子围栏(距离阈值)&#xa;异常力&gt;30N→急停回撤≤50ms&#xa;仓门/位置互锁" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1699" y="563.11" width="227.45" height="91.22" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-35" value="力反馈自适应调节" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-1447" y="673" width="171" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-36" value="V_cut = Kp·F + Kd·dF/dt&#xa;六维力F, dF/dt" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1431.9974270450366" y="722.0022047334559" width="158" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-41" value="线性模组/伺服驱动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-2253" y="751" width="171" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-42" value="旋转式双刃刀头(0–3000rpm)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-1984" y="749" width="171" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-43" value="切割执行/状态监测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-1732" y="749" width="171" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-44" value="六维力传感" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-1729" y="858" width="171" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-47" value="实时力/扭矩反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1651" y="807" width="105" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-49" value="执行机构层" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1932.0005882352941" y="716.9983835018384" width="88" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-55" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2088" y="240.12" as="sourcePoint" />
+            <mxPoint x="-2014" y="240.12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-56" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2088" y="306.23" as="sourcePoint" />
+            <mxPoint x="-2014" y="306.23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-57" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2087" y="372.23" as="sourcePoint" />
+            <mxPoint x="-2013" y="372.23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-58" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1842" y="303.12" as="sourcePoint" />
+            <mxPoint x="-1768" y="303.12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-59" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2073.1400000000003" y="538.55" as="sourcePoint" />
+            <mxPoint x="-1999.14" y="538.55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-60" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1810" y="538.55" as="sourcePoint" />
+            <mxPoint x="-1736" y="538.55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-61" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1899" y="569.5" as="sourcePoint" />
+            <mxPoint x="-1452" y="681" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-62" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1896" y="799.5" as="sourcePoint" />
+            <mxPoint x="-1711.5" y="849.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-63" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1646.86" y="795.5" as="sourcePoint" />
+            <mxPoint x="-1646.7199999999998" y="854.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-64" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1546" y="874" as="sourcePoint" />
+            <mxPoint x="-1453" y="719" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-65" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1924.35" y="427" as="sourcePoint" />
+            <mxPoint x="-1924.35" y="477" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-66" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1921.86" y="654.33" as="sourcePoint" />
+            <mxPoint x="-1921.86" y="704.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-67" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2071" y="770.14" as="sourcePoint" />
+            <mxPoint x="-1996.9999999999998" y="770.14" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RutVTI5XH8EXrE3zsqR-68" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1808" y="770.14" as="sourcePoint" />
+            <mxPoint x="-1733.9999999999998" y="770.14" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
