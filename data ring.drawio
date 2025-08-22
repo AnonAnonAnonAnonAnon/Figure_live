@@ -286,6 +286,9 @@
             <mxPoint x="812" y="659" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-79" value="Post training" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="723" y="632" width="85" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
