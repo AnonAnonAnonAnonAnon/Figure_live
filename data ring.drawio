@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0">
   <diagram name="第 1 页" id="En-CYROnuDLl_oeANHlv">
-    <mxGraphModel dx="1174" dy="637" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="685" dy="372" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,6 +221,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="932" y="719" as="sourcePoint" />
             <mxPoint x="958" y="719" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-62" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="721" as="sourcePoint" />
+            <mxPoint x="1126" y="721" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-63" value="&lt;b&gt;Action&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1127" y="675" width="65" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-64" value="&lt;b&gt;RealWorld&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1107" y="586" width="85" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="5Pb9lTRtrQvuT-GxUp_Y-67" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="674" as="sourcePoint" />
+            <mxPoint x="1160" y="648" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
