@@ -536,7 +536,7 @@
           <mxGeometry x="2548.5" y="1650" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ZaIt1QI4A2i5Sw0IclJJ-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Argument of Task Generation Process&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2479" y="1443" width="288" height="31" as="geometry" />
+          <mxGeometry x="2513" y="1446" width="288" height="31" as="geometry" />
         </mxCell>
         <mxCell id="ZaIt1QI4A2i5Sw0IclJJ-9" value="Database of Current Task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2494" y="1579" width="154" height="26" as="geometry" />
