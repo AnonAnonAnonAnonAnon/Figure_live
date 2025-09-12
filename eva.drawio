@@ -884,11 +884,9 @@
         </mxCell>
         <mxCell id="z19bhoPLjM9dx3NbZjMV-79" value="" style="endArrow=block;html=1;rounded=1;endFill=1;strokeWidth=2;curved=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4055.12" y="799.4100000000001" as="sourcePoint" />
-            <mxPoint x="3962.12" y="668.38" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3962.12" y="799.4100000000001" />
-            </Array>
+            <mxPoint x="4288.25" y="236.51" as="sourcePoint" />
+            <mxPoint x="4288.37" y="180.01999999999998" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z19bhoPLjM9dx3NbZjMV-80" value="" style="endArrow=block;html=1;rounded=1;endFill=1;strokeWidth=2;curved=0;" parent="1" edge="1">
@@ -971,7 +969,7 @@
           <mxGeometry x="3892.12" y="804.1" width="170" height="41" as="geometry" />
         </mxCell>
         <mxCell id="-9aRV881IoTeKonImU_b-10" value="Diagnosis and Advice" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3972.227142857142" y="712.4128571428571" width="142" height="36" as="geometry" />
+          <mxGeometry x="4289.607142857142" y="195.00285714285712" width="142" height="36" as="geometry" />
         </mxCell>
         <mxCell id="-9aRV881IoTeKonImU_b-11" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
