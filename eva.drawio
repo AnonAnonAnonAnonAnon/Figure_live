@@ -889,15 +889,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z19bhoPLjM9dx3NbZjMV-80" value="" style="endArrow=block;html=1;rounded=1;endFill=1;strokeWidth=2;curved=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4312" y="868.03" as="sourcePoint" />
-            <mxPoint x="4217" y="700" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="4219" y="868.03" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="z19bhoPLjM9dx3NbZjMV-81" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4782.69" y="141.44" as="sourcePoint" />
@@ -921,15 +912,6 @@
         </mxCell>
         <mxCell id="z19bhoPLjM9dx3NbZjMV-89" value="Structrued Method" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3522" y="660.66" width="117" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="z19bhoPLjM9dx3NbZjMV-90" value="" style="endArrow=block;html=1;rounded=1;endFill=1;strokeWidth=2;curved=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4474" y="692" as="sourcePoint" />
-            <mxPoint x="4311" y="758.46" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="4474" y="758.46" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="z19bhoPLjM9dx3NbZjMV-91" value="Code Feedback" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="4403" y="248.54999999999995" width="103" height="26" as="geometry" />
@@ -966,7 +948,7 @@
           <mxGeometry x="4487" y="362.69000000000005" width="231.04" height="129.96" as="geometry" />
         </mxCell>
         <mxCell id="-9aRV881IoTeKonImU_b-9" value="&lt;div&gt;if Task Implementationis&amp;nbsp;&lt;/div&gt;&lt;div&gt;not aligned with Descriptions&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3892.12" y="804.1" width="170" height="41" as="geometry" />
+          <mxGeometry x="4233" y="334.22" width="170" height="41" as="geometry" />
         </mxCell>
         <mxCell id="-9aRV881IoTeKonImU_b-10" value="Diagnosis and Advice" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="4289.607142857142" y="195.00285714285712" width="142" height="36" as="geometry" />
